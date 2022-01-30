@@ -1,0 +1,68 @@
+### YamlMime:Hub
+title: Microsoft プライバシーに関する声明
+summary: お客様のビジネスや組織でプライバシーの使用を開始するために必要な Microsoft ドキュメントとリソースを案内します。
+brand: m365
+metadata:
+  title: Microsoft プライバシーに関する声明
+  description: お客様のビジネスや組織でプライバシーの使用を開始するために必要な Microsoft ドキュメントとリソースを案内します。
+  services: service
+  ms.service: service
+  ms.subservice: subservice
+  ms.topic: hub-page
+  ms.collection:
+    - M365-security-compliance
+  author: robmazz
+  ms.author: robmazz
+  ms.date: 11/15/2021
+  titleSuffix: Microsoft Privacy
+highlightedContent:
+  items:
+    - title: Microsoft がお客様のプライバシーを保護する方法について
+      itemType: learn
+      url: 'https://privacy.microsoft.com/'
+    - title: Microsoft 365 のプライバシー基準の詳細
+      itemType: learn
+      url: /learn/modules/audit-privacy/
+    - title: データ保護、プライバシー基準、データ処理の詳細
+      itemType: learn
+      url: /learn/modules/intro-to-data-protection-privacy/
+    - title: Microsoft クラウド サービスでのプライバシーの使用を開始する
+      itemType: get-started
+      url: 'https://www.microsoft.com/trust-center/privacy'
+productDirectory:
+  title: Microsoft Priva
+  summary: Priva の使用を開始して、組織で Microsoft 365 の個人データを保護し、プライバシーに配慮した職場を構築するのに役立てます。
+  items:
+    - title: Priva の詳細情報
+      imageSrc: /office/media/icons/task-list-planning-blue.svg
+      summary: Priva は、組織に積極的にプライバシー リスクを特定して保護するためのツールを提供し、個人データの保存と移動を管理するのに役立ちます。
+      url: /privacy/priva/priva-overview
+    - title: Priva の使用を開始する
+      imageSrc: /office/media/icons/list-123-blue.svg
+      summary: Microsoft Priva を使用して、プライバシー リスクの特定と軽減をサポートする準備ができたら、これらの手順に従って前提条件を設定し、プライバシー分析情報の検索を開始します。
+      url: /privacy/priva/priva-setup
+    - title: プライバシー リスク管理を使用したリスク管理
+      imageSrc: /office/media/icons/tasks-blue.svg
+      summary: Priva には、Microsoft 365 環境におけるプライバシー リスクを特定し、簡単に修復できるポリシーを設定する機能があります。
+      url: /privacy/priva/risk-management-policies
+    - title: 主体の権利の要求を管理する
+      imageSrc: /office/media/icons/process-flow-blue.svg
+      summary: Priva 主体の権利要求は、ワークフロー、自動化、コラボレーションを提供することで、個人データ要求を処理できます。
+      url: /privacy/priva/subject-rights-requests
+additionalContent:
+  sections:
+    - title: Microsoft サービスのプライバシーに関する詳細情報
+      summary: プライバシーの初心者で、Microsoft サービスをどこから始めればよいか迷っているユーザー向けに、このセクションでは、各サービスの主要なプライバシー領域へのリンクを提供しています。
+      items:
+        - title: Microsoft Azure
+          summary: Azure サービスで保存および処理するデータのプライバシーと機密性を保護する方法と、ユーザーの期待に沿った方法でのみ使用する方法をご紹介します。
+          url: 'https://azure.microsoft.com/overview/trusted-cloud/privacy/'
+        - title: Dynamics 365
+          summary: Microsoft Dynamics 365 は、お客様がプライバシー、個人情報、EU 一般データ保護規則 (GDPR) の要件を満たすサポートを行うことを約束します。
+          url: /dynamics365/get-started/gdpr/
+        - title: Microsoft 365 Apps for enterprise
+          summary: Microsoft では、Microsoft 365 Apps for Enterprise を使用する際にデータの収集方法と使用方法を選択するのに必要な情報とコントロールを提供するように努めています。
+          url: /deployoffice/privacy/overview-privacy-controls
+        - title: Microsoft Windows
+          summary: 組織内の Windows 診断データを表示および構成することで、一般データ保護規則 (GDPR) の要件を満たす方法をご紹介します。
+          url: /windows/privacy/
