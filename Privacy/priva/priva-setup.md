@@ -17,16 +17,16 @@ search.appverid:
 - MOE150
 - MET150fcf
 description: 組織の Microsoft Priva をセットアップし、役割とアクセス許可を設定し、重要な設定を構成する方法について説明します。
-ms.openlocfilehash: 62e28361b57dd866b95ce566616473ed1a71e4ad
-ms.sourcegitcommit: f145dff5e387a8e26db2f3a2c7de125978fbacc9
+ms.openlocfilehash: 8df9367bd88fe9a8feecdbb00110345aae7a3d79
+ms.sourcegitcommit: a76dec53605c963d9bc134a26b7e09f600d6e940
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249101"
+ms.lasthandoff: 01/31/2022
+ms.locfileid: "62280249"
 ---
 # <a name="get-started-with-priva"></a>Priva の使用を開始する
 
-Microsoft Priva を使用してプライバシー リスクの特定と軽減を支援する準備が整った場合は、次の手順に従って前提条件を設定し、プライバシーに関する分析情報の確認を開始してください。
+Microsoft Priva を使用して、プライバシー リスクの特定と軽減をサポートする準備ができたら、これらの手順に従って前提条件を設定し、プライバシー分析情報の検索を開始します。
 
 ## <a name="step-1-confirm-subscriptions-and-licensing"></a>手順 1: サブスクリプションとライセンスを確認する
 
@@ -37,7 +37,7 @@ Priva は、Microsoft 365 コンプライアンス センター内で利用で�
 
 Priva は、Priva Privacy Risk Management と Priva Subject Rights Requests という 2 つの異なるソリューションのライセンス オプションを提供します。 これらは個別または一緒に購入できます。 サブジェクト権限要求のライセンスを取得する場合は、処理する必要がある要求の数に応じて適切なライセンス層を選択できます。 追加の要求は、いつでも購入できます。
 
-ライセンスのガイダンスに関する詳細については、「[セキュリティとコンプライアンスのための Microsoft 365 ライセンス ガイダンス](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#privacy-management)」を参照してください。
+ライセンスのガイダンスに関する詳細については、「[セキュリティとコンプライアンスのための Microsoft 365 ライセンス ガイダンス](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-priva)」を参照してください。
 
 > [!Note]
 > Priva は、米国政府機関 (Community) (GCC) GCC高、または国防総省 (DoD) のお客様には使用できません。
