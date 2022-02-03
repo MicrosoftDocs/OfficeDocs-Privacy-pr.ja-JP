@@ -1,0 +1,38 @@
+- name: Microsoft Priva の詳細
+  href: priva-overview.md
+- name: 無料の Priva 試用版の詳細
+  href: priva-trial.md
+- name: Priva の使用を開始する
+  href: priva-setup.md
+- name: Priva でアクセス許可とロールを設定する
+  href: priva-permissions.md
+- name: Priva の設定を構成する
+  href: priva-settings.md
+- name: Priva で個人データを検索して視覚化する
+  href: priva-data-profile.md
+- name: プライバシー リスク管理
+  items:
+    - name: プライバシー リスク管理に関する詳細情報
+      href: risk-management.md
+    - name: ポリシーの作成
+      href: risk-management-policies.md
+    - name: ポリシーを管理する
+      href: risk-management-policies-manage.md
+    - name: アラートの調査と修復
+      href: risk-management-alerts.md
+    - name: ユーザー通知を送信する
+      href: risk-management-notifications.md
+- name: サブジェクト権利要求
+  items:
+    - name: サブジェクト権利要求の詳細
+      href: subject-rights-requests.md
+    - name: リクエストを作成する
+      href: subject-rights-requests-create.md
+    - name: データ照合を設定する
+      href: subject-rights-requests-data-match.md
+    - name: データを確認して共同作業する
+      href: subject-rights-requests-data-review.md
+    - name: レポートを取得して要求を処理する
+      href: subject-rights-requests-reports.md
+    - name: 自動タスク
+      href: subject-rights-requests-automate.md
