@@ -16,12 +16,12 @@ search.appverid:
 - MOE150
 - MET150
 description: サブジェクト権限要求用に Microsoft Priva によって作成されたデータ パッケージを管理し、データ主体への要求を満たす方法について説明します。
-ms.openlocfilehash: 861a08b1f2ca5b3f82546c54db16c4518a8e9a70
-ms.sourcegitcommit: f145dff5e387a8e26db2f3a2c7de125978fbacc9
+ms.openlocfilehash: 9931422434414146601ede959af910caf1befcc1
+ms.sourcegitcommit: 1f3f2757f456628ec904bc3df985b00ffba8f892
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249205"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62542835"
 ---
 # <a name="generate-reports-and-fulfill-a-subject-rights-request"></a>レポートを生成し、件名の権利要求を満たす
 
@@ -56,7 +56,13 @@ Priva Subject Rights Requests ソリューションを既存のビジネス プ�
 
 ## <a name="manage-data-retention"></a>データ保持の管理
 
-このツールを使用して生成されたレポートと、Azure に保存された注釈付きファイルなどの関連データは、指定された時間保存されます。 この期間は、[データ保持期間] セクション設定を通じてグローバル レベルで定義され、30 日から 90 日の間で選択できます。 これらのデータ保持期間がポリシーおよび法的義務に準拠している必要があります。
+このツールを使用して生成されたレポートと、Azure に保存された注釈付きファイルなどの関連データは、指定された時間保存されます。 データ保持期間は **Priva 設定** 定義され、すべてのサブジェクト権限要求に適用されます。 データ保持期間を表示または変更するには、次の手順に従います。
+
+1. Priva Subject Rights Requests のどこからでも、画面 **設定** 右上隅にある [歯車] アイコン (歯車アイコン) を選択します。
+2. 左側 **のナビゲーションで [データ保持期間** ] を選択します。
+3. ドロップダウン メニューを使用して、保持期間として 30 日または 90 日のいずれかを選択します。
+
+選択したデータ保持期間が組織のポリシーと法的義務に準拠している必要があります。
 
 ## <a name="legal-disclaimer"></a>法的免責事項
 
