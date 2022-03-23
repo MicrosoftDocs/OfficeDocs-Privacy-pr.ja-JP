@@ -16,12 +16,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva の Subject Rights Requests ソリューションは、個人データを検索し、コンテンツのレビューとレポートの作成に関して共同作業を行う際に役立ちます。
-ms.openlocfilehash: 2aba05ded8940331cedf21fdf67861f5fe403dac
-ms.sourcegitcommit: f145dff5e387a8e26db2f3a2c7de125978fbacc9
+ms.openlocfilehash: 25eb785651ec0edd1035aba54b20d19404619b80
+ms.sourcegitcommit: 02921b2dd438a517191522567908046b136a89e2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249246"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63758446"
 ---
 # <a name="learn-about-priva-subject-rights-requests"></a>Priva Subject Rights Requests の詳細
 
@@ -31,13 +31,11 @@ Microsoft Priva は、Subject Rights Requests ソリューションを通じて�
 
 ## <a name="how-priva-supports-subject-rights-request-fulfillment"></a>Priva がサブジェクト権限要求のフルフィルメントをサポートする方法
 
-件名の要求サイクルは、組織に対する個人の要求から始まります。 受信すると、Priva の機能を使用して、そのデータの収集、共同作業、レビュー、レポートの作成を行います。 その後、データ主体に調査結果を通知し、データの削除など、要求を満たすために Priva の外部で必要なその他のアクションを実行できます。 途中でワークフローを管理および自動化するために、Priva の統合されたテンプレートPower Automateすることもできます。
-
-![件名の要求のワークフロー。](../media/priva-srr-cycle.png)
+件名の要求サイクルは、組織に対する個人の要求から始まります。 受信すると、Priva の機能を使用して、そのデータの収集、共同作業、レビュー、レポートの作成を行います。 その後、データ主体に調査結果を通知し、データの削除など、要求を満たすために Priva の外部で必要なその他のアクションを実行できます。 途中でワークフローを管理および自動化するために、統合されたテンプレートをPower Automateすることもできます。
 
 ### <a name="create-requests-and-collect-data"></a>要求を作成してデータを収集する
 
-Priva には、組織がデータ に格納しているコンテンツ内のデータ主体に関連するデータを検索するための強力な検索Microsoft 365。 また、これらの要求に対して収集したデータ内で確認するアイテムの優先順位付けにも役立ちます。 Priva は、機密Microsoft Information Protection可能性のあるコンテンツを示し、特別なレビューを必要とする可能性のある機密ラベルを認識し、アイテムにこれらのラベルをフラグ付けします。 さらに、Priva は、複数のユーザーのデータを含む可能性のあるアイテムを検出してフラグを設定できます。そこで、データ主体にコンテンツを提供する前にコンテンツをやり直す必要がある場合があります。
+Priva には、組織がデータ に保存しているコンテンツ内のデータ主体に関連するデータを検索するための強力な検索Microsoft 365。 また、これらの要求に対して収集したデータ内で確認するアイテムの優先順位付けにも役立ちます。 Priva は、機密Microsoft Information Protection可能性のあるコンテンツを示し、特別なレビューを必要とする可能性がある機密ラベルを認識し、アイテムにこれらのラベルをフラグします。 さらに、Priva は、複数のユーザーのデータを含む可能性のあるアイテムを検出してフラグを設定できます。そこで、データ主体にコンテンツを提供する前にコンテンツをやり直す必要がある場合があります。
 
 詳細については、「サブジェクト権限要求 [を作成する」を参照してください](subject-rights-requests-create.md)。
 
