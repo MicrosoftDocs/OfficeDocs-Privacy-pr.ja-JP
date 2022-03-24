@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva 試用版の詳細、試用期間中に実行する推奨アクション、および重要なドキュメントへのリンクを確認するを参照してください。
-ms.openlocfilehash: f75702c2f0dcc997f8d0e8bdb6ab154cc4bca5fc
-ms.sourcegitcommit: f145dff5e387a8e26db2f3a2c7de125978fbacc9
+ms.openlocfilehash: 3004a39da2627e7a0f8da1e27bd0456d3b06881d
+ms.sourcegitcommit: beeb693075ef692e95d679f366301df8517b2ac3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249109"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63765510"
 ---
 # <a name="trial-playbook-microsoft-priva"></a>試用版プレイブック: Microsoft Priva
 
@@ -38,7 +38,7 @@ Microsoft の推奨事項を使用して、Priva がデータの取得、デー�
 
 前提条件を設定して試用版を開始します。 Priva は、個別に試用および購入できる、Priva Privacy Risk Management と Priva Subject Rights Requests の 2 つの主要なソリューションで構成されています。 ライセンスと購入の詳細については、[Microsoft.com。](https://www.microsoft.com/security/business/privacy/privacy-management-software?rtc=1#office-ContentAreaHeadingTemplate-8x0pmkp)
 
-### <a name="privacy-risk-management"></a>プライバシーリスク管理
+### <a name="privacy-risk-management"></a>プライバシー リスク管理
 
 プライバシー リスク **管理ソリューションを使用** すると、組織の個人データを保護し、プライバシーに対応した職場を構築する方法について説明できます。
 
@@ -47,7 +47,7 @@ Microsoft の推奨事項を使用して、Priva がデータの取得、デー�
 - 情報ワーカーが、このデータの処理に関するスマートな意思決定を行う権限を与える
 - ユーザーがデータを効果的に管理し、進化するプライバシー規制に準拠するための手順を実行できる
 
-### <a name="subject-rights-requests"></a>Subject Rights Requests
+### <a name="subject-rights-requests"></a>サブジェクト権利要求
 
 Subject **Rights Requests ソリューションを使用** すると、最初の要求からレポートの作成まで、問い合わせを処理する方法について学習できます。
 
@@ -71,12 +71,12 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 まず、次のページの [Priva] セクションに[移動Microsoft 365 コンプライアンス センターページ](https://compliance.microsoft.com/)を表示します。
 
-1. [概要](priva-data-profile.md#explore-the-overview-page): ユーザー環境での個人データのボリューム、カテゴリ、場所、移動など、プライバシーの姿勢をMicrosoft 365します。 さらに、個人データが過剰共有、転送、または未使用に起因する関連するプライバシー リスクの現在の状態と傾向を把握できます。
-1. [データ プロファイル](priva-data-profile.md#explore-the-data-profile-page): ボリューム、種類、場所 (ストレージと地域) など、Microsoft 365に組織が格納する個人データのスナップショットを提供します。
+1. [概要](priva-data-profile.md#explore-the-overview-page): ユーザー環境での個人データのボリューム、カテゴリ、場所、および移動など、プライバシーの姿勢を集計Microsoft 365します。 さらに、個人データが過剰共有、転送、または未使用に起因する関連するプライバシー リスクの現在の状態と傾向を把握できます。
+1. [データ プロファイル](priva-data-profile.md#explore-the-data-profile-page): ボリューム、種類、場所 (ストレージと地域) を含む、Microsoft 365 に組織が格納する個人データのスナップショットを提供します。
 
 ## <a name="learn-about-policies"></a>ポリシーの詳細
 
-プライバシー リスク管理を使用すると、セキュリティ環境でプライバシー リスクを特定し、簡単に修復Microsoft 365ポリシーを設定できます。
+プライバシー リスク管理を使用すると、セキュリティ環境でプライバシー リスクを特定し、簡単に修復できるMicrosoft 365ポリシーを設定できます。
 
 1. [主要なリスクシナリオの詳細](risk-management.md#learn-about-key-risk-scenarios)
 1. [データの過剰露出を制限する](risk-management.md#limit-data-overexposure)
@@ -122,7 +122,7 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 1. [電子メール通知から問題を修復する](risk-management-notifications.md#remediate-issues-from-email-notifications)
 1. [メールで通知を送信Teams](risk-management-notifications.md#send-notifications-in-teams)
 
-## <a name="learn-about-subject-rights-requests"></a>サブジェクトの権利要求の詳細
+## <a name="learn-about-subject-rights-requests"></a>サブジェクト権利要求の詳細
 
 世界中の特定のプライバシー規制に従って、個人 (またはデータ主体) は、企業が収集した個人データを確認または管理する要求を行う場合があります。 これらの要求は、データ主体要求 (DSR)、データ主体アクセス要求 (DSAR)、またはコンシューマー権限要求とも呼ばれます。 Priva Subject Rights Requests は、これらの問い合わせを処理するのに役立ちます。
 
@@ -163,17 +163,17 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 サブジェクト権限要求のデータ レビューを完了すると、フルフィルメントを要求できます。
 
-1. [データ主体の最終レポートを準備する](subject-rights-requests-reports.md#prepare-final-reports-for-the-data-subject)
+1. [データ主体の最終レポートを準備する](subject-rights-requests-reports.md)
 1. [パートナー ソリューションとの統合](subject-rights-requests-reports.md#integrate-with-partner-solutions)
-1. [データ保持の管理](subject-rights-requests-reports.md#manage-data-retention)
+1. [データ保持の管理](subject-rights-requests-reports.md#retention-periods-for-reports-and-data)
 
 ## <a name="automate-subject-rights-requests-tasks"></a>主体の権利の要求タスクを自動化する
 
-Priva Power Automateフローを有効にして、ServiceNow でチケットを作成する、期日に関する予定表のリマインダーを追加するなど、ケースとユーザーの重要なタスクを自動化します。
+Priva Power Automateフローを有効にして、ServiceNow でのチケットの作成や期日に関する予定表のリマインダーの追加など、ケースとユーザーの重要なタスクを自動化します。
 
 1. [テンプレートから新Power Automateフローを作成する](subject-rights-requests-automate.md#create-a-new-power-automate-flow-from-a-template)
 1. [データ フロー Power Automateする](subject-rights-requests-automate.md#share-a-power-automate-flow)
-1. [フローを編集またはPower Automateする](subject-rights-requests-automate.md#edit-or-delete-power-automate-flow)
+1. [フローの編集Power Automate削除する](subject-rights-requests-automate.md#edit-or-delete-power-automate-flow)
 
 ## <a name="additional-resources"></a>その他のリソース
 

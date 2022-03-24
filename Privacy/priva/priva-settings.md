@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva のグローバル設定オプションについて説明します。
-ms.openlocfilehash: 49a6f2112e584ef72bcc0f0433b09a21ccac194c
-ms.sourcegitcommit: a9ad5185174a9e8a7eea7583d257e8535c96a2ed
+ms.openlocfilehash: 1cbb508d8c1dd98dfa846595d81e8aaeecdbaeb4
+ms.sourcegitcommit: 02921b2dd438a517191522567908046b136a89e2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63746780"
+ms.locfileid: "63758426"
 ---
 # <a name="configure-priva-settings"></a>Priva の設定を構成する
 
@@ -64,7 +64,3 @@ Priva には、組織の使用に合わせて名前を付け、定義できる 2
 タグ設定は、すべてのサブジェクト権限要求に適用されます。
 
 サブジェクト権限要求 [のデータを確認する際にタグを適用する方法について詳しくは、次のページをご覧ください](subject-rights-requests-data-review.md#apply-tags)。
-
-この **設定** データ レビュー **タグにアクセスして**、タグを確認および管理します。
- 
-これらのタグは、手動で削除する必要があるコンテンツなど、さらに注意が必要なコンテンツを示すために使用できます。 設定のこのセクションでは、カスタム タグの名前と説明を編集できます。 システムによって提供される組み込みタグのタグの説明を編集することもできます。 システム タグの名前は変更できません。 サブジェクト権限要求の詳細については、「対象権限要求のデータを確認 [する」を参照してください](subject-rights-requests-data-review.md#step-3-review-data)。
