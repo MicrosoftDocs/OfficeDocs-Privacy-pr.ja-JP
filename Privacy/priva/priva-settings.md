@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva のグローバル設定オプションについて説明します。
-ms.openlocfilehash: 1cbb508d8c1dd98dfa846595d81e8aaeecdbaeb4
-ms.sourcegitcommit: 02921b2dd438a517191522567908046b136a89e2
+ms.openlocfilehash: d1e19ffc587f346c5ca1b414a772649342cdccaa
+ms.sourcegitcommit: beeb693075ef692e95d679f366301df8517b2ac3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63758426"
+ms.locfileid: "63765490"
 ---
 # <a name="configure-priva-settings"></a>Priva の設定を構成する
 
@@ -46,7 +46,7 @@ ms.locfileid: "63758426"
 
 ## <a name="data-retention-periods"></a>データ保持期間
 
-この設定は、Priva Subject Rights Requests に関連しています。 これにより、要求が閉じた後に生成された収集データとレポートを保持する期間の設定を制御できます。 これは 30 日または 90 日に設定できます。作成したすべてのサブジェクト権限要求に適用されます。 データ保持期間が組織のポリシーと法的義務に準拠することを確認することをお勧めします。 サブジェクト権限要求 [のデータ保持を設定する方法について詳しくは、以下を参照してください](subject-rights-requests-reports.md#manage-data-retention)。
+この設定は、Priva Subject Rights Requests に関連しています。 これにより、要求が閉じた後に生成された収集データとレポートを保持する期間の設定を制御できます。 これは 30 日または 90 日に設定できます。作成したすべてのサブジェクト権限要求に適用されます。 データ保持期間が組織のポリシーと法的義務に準拠することを確認することをお勧めします。 サブジェクト権限要求 [のデータ保持について詳しくは、次の情報をご覧ください](subject-rights-requests-reports.md#retention-periods-for-reports-and-data)。
 
 ## <a name="data-review-tags"></a>データ レビュー タグ
 
