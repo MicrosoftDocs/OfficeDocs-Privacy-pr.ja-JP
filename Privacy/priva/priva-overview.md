@@ -16,13 +16,13 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft Priva は、組織が Microsoft 365 に格納されている個人データを評価し、プライバシー リスクを特定して修復し、対象の権利要求を大規模に管理するのに役立ちます。
-ms.openlocfilehash: 0aa8953a1ce763c6a54587f3ac0c02ffcad675fd
-ms.sourcegitcommit: f145dff5e387a8e26db2f3a2c7de125978fbacc9
+description: Microsoft Priva は、組織が Microsoft 365 に保存されている個人データを評価し、プライバシー リスクの特定と修復を支援し、対象の権利要求を大規模に管理するのに役立ちます。
+ms.openlocfilehash: 347756c2e18c1480bd8d7a2b497515ab57794ddd
+ms.sourcegitcommit: 23e6748ab228e508a3de7d4dab5c40dc9f25df79
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249116"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64586460"
 ---
 # <a name="learn-about-microsoft-priva"></a>Microsoft Priva の詳細
 
@@ -100,19 +100,48 @@ Priva は、テナント内の次のサービスにMicrosoft 365組織のデー�
 - OneDrive for Business
 - Microsoft Teams
 
-Priva は、組織の環境内のデータのみをMicrosoft 365します。 組織の環境の一部ではない個人データMicrosoft 365します。 たとえば、ユーザーの個人用アカウントにアクセスMicrosoft 365します。
+Priva は、組織の環境内のデータのみをMicrosoft 365します。 組織の環境の一部ではない個人データMicrosoft 365します。 たとえば、ユーザーの個人用アカウントにMicrosoft 365されません。
+
+## <a name="priva-availability"></a>Priva の可用性
+
+Microsoft Priva は世界中で展開されています。 組織がテナントをプロビジョニングした場所によっては、Priva を完全に利用できない場合があります。 以下の一覧では、組織がテナントをプロビジョニングした場所に基づいて、Priva の可用性の概要を示します。 Priva を使用できない場合、**Priva Privacy Risk Management と Priva** Subject **Rights Requests** は、Microsoft 365 コンプライアンス センター の左側のナビゲーションに表示されません。 Priva がすべての地理的な場所でアクセス可能になったら、引き続きこのリストを更新します。
+
+地理的[Microsoft 365国](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-multi-geo)でのデータのプロビジョニングの詳細については、「複数地域」をご覧ください。
+
+**Available**
+
+- オーストラリア
+- ブラジル
+- カナダ
+- フランス
+- ドイツ
+- インド
+- 日本
+- 英国
+- 米国 (注: 米国政府Community (GCC) モデレート、GCC 高、または国防総省 (DoD) のお客様は利用できません。
+
+**まだ利用できない**
+
+- ノルウェー
+- ポーランド
+- カタール
+- シンガポール
+- 南アフリカ
+- 韓国
+- スペイン
+- スウェーデン
+- スイス
+- アラブ首長国連邦
 
 ## <a name="more-resources"></a>その他のリソース
 
-Priva のビデオ プレビューを表示するには、YouTube の Microsoft Mechanics Microsoft 365の AI [ベースの](https://www.youtube.com/watch?v=6OLky1biPIQ)プライバシー管理を参照してください。
+YouTube の Microsoft Mechanics の [Microsoft Priva](https://www.youtube.com/watch?v=6OLky1biPIQ) 機能を説明する 13 分間のビデオをご覧ください。
 
-Microsoft がプライバシーに取り組み、データを保護する方法の詳細については、以下を参照してください。
-
-- [Microsoft プライバシーに関する声明](/privacy)
+Microsoft がプライバシーに取り組み、データを保護する方法の詳細については、「 [Microsoft Privacy」を参照してください](/privacy)。
 
 ## <a name="next-steps"></a>次の手順
 
-Priva の使用を開始するには、「 [Priva の使用を開始する」を参照してください](priva-setup.md)。
+Priva の使用を開始するには、「Priva 概要[」を参照してください](priva-setup.md)。
 
 ## <a name="legal-disclaimer"></a>法的免責事項
 
