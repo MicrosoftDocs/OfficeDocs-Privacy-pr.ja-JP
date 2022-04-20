@@ -16,12 +16,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft 365で組織の個人データを処理するためのプライバシー ポリシーを作成およびカスタマイズする方法について説明します。
-ms.openlocfilehash: 6a8fa5a77e681f9626bfc28e53d193986b40e0cb
-ms.sourcegitcommit: 3d00addbca48a7393cf4e4b67ef24696fb9b7dd8
+ms.openlocfilehash: 2b655d778e73e2107c289988966fb491bf3ebb2e
+ms.sourcegitcommit: 09ecdaded9a9f8f79587f2acb978dc53b83e5c01
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64865776"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "64930508"
 ---
 # <a name="create-policies-in-privacy-risk-management"></a>プライバシー リスク管理でポリシーを作成する
 
@@ -33,7 +33,7 @@ ms.locfileid: "64865776"
 
 既定のテンプレートのいずれかを使用してポリシーを作成するには、次の手順に従います。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、[Priva Privacy Risk Management] セクションに移動し、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、[Priva Privacy Risk Management] セクションに移動し、[**ポリシー**] を選択します。
 1. [**ポリシーの作成**] を選択します。
 1. 目的のテンプレートの種類を選択します。 これにより、テンプレートに関する情報を含むポップアップ ウィンドウが開きます。
 1. データ型、データの場所、ポリシーの一致をトリガーする条件など、テンプレートの既定の設定を確認するには、[ **設定の表示**] を選択します。
@@ -48,7 +48,7 @@ ms.locfileid: "64865776"
 
 すべてのポリシーの種類は、この基本的なフローに従います。 選択したポリシーに応じて、特定の設定とオプションが変更されます。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、[Priva Privacy Risk Management] セクションに移動し、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、[Priva Privacy Risk Management] セクションに移動し、[**ポリシー**] を選択します。
 1. [**ポリシーの作成**] を選択します。
 1. ウィザードの使用を開始するには、[ **カスタム]** オプションを選択します。
 1. ベースライン テンプレートの種類 (**データの露出過剰、****データ転送、** または **データ最小化**) を選択します。 それぞれが、ポリシーの作成時に特定のオプションを提供します。
