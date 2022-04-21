@@ -14,10 +14,14 @@
   items:
     - name: プライバシー リスク管理に関する詳細情報
       href: risk-management.md
-    - name: ポリシーの作成
+    - name: ポリシーの作成と管理方法については、こちらを参照してください。
       href: risk-management-policies.md
-    - name: ポリシーを管理する
-      href: risk-management-policies-manage.md
+    - name: データの過剰露出ポリシーを作成する
+      href: risk-management-policy-data-overexposure.md
+    - name: データ転送ポリシーを作成する
+      href: risk-management-policy-data-transfer.md
+    - name: データ最小化ポリシーを作成する
+      href: risk-management-policy-data-minimization.md
     - name: アラートの調査と修復
       href: risk-management-alerts.md
     - name: ユーザー通知を送信する
