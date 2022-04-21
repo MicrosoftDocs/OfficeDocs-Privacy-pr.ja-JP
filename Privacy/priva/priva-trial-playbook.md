@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva 試用版について説明し、試用期間中に実行する推奨されるアクションを確認し、重要なドキュメントへのリンクを確認します。
-ms.openlocfilehash: 567901cf75440b76fc5c3b755894cada188d6505
-ms.sourcegitcommit: 09ecdaded9a9f8f79587f2acb978dc53b83e5c01
+ms.openlocfilehash: 20b69f56d52cea59c124cd4b88f8cdcfa754f189
+ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64930528"
+ms.lasthandoff: 04/21/2022
+ms.locfileid: "65014397"
 ---
 # <a name="trial-playbook-microsoft-priva"></a>試用版プレイブック: Microsoft Priva
 
@@ -87,21 +87,21 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 ## <a name="create-and-customize-policies"></a>ポリシーの作成とカスタマイズ
 
-プライバシー リスク管理で新しいポリシーを作成し、組織にとって重要なプライバシー リスク シナリオに対処します。 クイック スタートでは、既定のテンプレートを使用して、データの露出過剰、データ転送、およびデータ最小化とシナリオの新しいポリシーを作成します。
+プライバシー リスク管理で新しいポリシーを作成し、組織にとって重要なプライバシー リスク シナリオに対処します。 クイック スタートでは、テンプレートの既定の設定を使用して、データの露出過剰、データ転送、およびデータ最小化とシナリオの新しいポリシーを作成します。
 
-1. [テンプレートからポリシーを作成する](risk-management-policies.md#create-a-policy-from-a-template)
-1. [カスタム ポリシーを作成する](risk-management-policies.md#create-a-custom-policy)
-1. [すべてのポリシーのキー設定について説明します](risk-management-policies.md#learn-about-key-settings-for-all-policies)
-1. [データ最小化ポリシーの設定について説明します](risk-management-policies.md#learn-about-settings-for-data-minimization-policies)
-1. [データ転送ポリシーの設定について説明します](risk-management-policies.md#learn-about-settings-for-data-transfer-policies)
-1. [データの露出超過ポリシーの設定について説明します](risk-management-policies.md#learn-about-settings-for-data-overexposure-policies)
+1. [既定の設定でテンプレートを使用してポリシーを作成する](risk-management-policies.md#quick-setup-using-a-template-with-default-settings)
+1. [テンプレート設定をカスタマイズしてポリシーを作成する](risk-management-policies.md#custom-setup-guided-process-to-choose-all-settings)
+1. [すべてのポリシーのキー設定について説明します](risk-management-policies.md)
+1. [データ最小化ポリシーの設定について説明します](risk-management-policy-data-minimization.md)
+1. [データ転送ポリシーの設定について説明します](risk-management-policy-data-transfer.md)
+1. [データの露出超過ポリシーの設定について説明します](risk-management-policy-data-overexposure.md)
 
 ## <a name="manage-policies"></a>ポリシーを管理する
 
 プライバシー リスク管理で、データの最小化、データ転送、またはデータの露出超過のシナリオを処理するポリシーを作成したら、ポリシー設定を確認または更新することができます。 また、継続的な使用のために完全にロールアウトする前に、新しいポリシーをテストすることもできます。
 
-1. [ポリシーの詳細を表示する](risk-management-policies-manage.md#view-policy-details)
-1. [ポリシーをテストする](risk-management-policies-manage.md#test-your-policy)
+1. [ポリシーの詳細を表示する](risk-management-policies-manage.md#view-details-and-activity-from-the-policy-details-page)
+1. [ポリシーをテストする](risk-management-policies-manage.md#testing-a-policy)
 1. [ポリシーを削除する](risk-management-policies-manage.md#delete-a-policy)
 
 ## <a name="understand-policy-alerts-and-issues"></a>ポリシーのアラートと問題を理解する
@@ -117,9 +117,9 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 プライバシー リスク管理は、データの露出過剰、データ最小化、およびデータ転送ポリシーの一致についてコンテンツ所有者に直接通知できます。 電子メール通知を使用すると、ユーザーは確認する必要があるコンテンツについて簡単に確認できます。
 
-1. [ポリシー通知のトレーニング コンテンツを準備する](risk-management-notifications.md#prepare-training-content-for-policy-notifications)
-1. [ポリシーの電子メール通知を設定する](risk-management-notifications.md#set-up-email-notifications-for-policies)
-1. [電子メール通知から問題を修復する](risk-management-notifications.md#remediate-issues-from-email-notifications)
+1. [ポリシー通知のトレーニング コンテンツを準備する](risk-management-notifications.md#prepare-training-content-for-notifications)
+1. [ポリシーの電子メール通知を設定する](risk-management-notifications.md#set-user-email-notifications)
+1. [電子メール通知のプレビューとカスタマイズ](risk-management-notifications.md#preview-and-customize-email-content)
 1. [Teamsで通知を送信する](risk-management-notifications.md#send-notifications-in-teams)
 
 ## <a name="learn-about-subject-rights-requests"></a>サブジェクト権利要求の詳細
