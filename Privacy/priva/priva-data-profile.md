@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Priva の概要とデータ プロファイル、および組織のMicrosoft 365環境で個人データに関する分析情報を取得する方法について説明します。
-ms.openlocfilehash: 13a27fde86abf87fa4c08528f41976fdc58fe02f
-ms.sourcegitcommit: 09ecdaded9a9f8f79587f2acb978dc53b83e5c01
+ms.openlocfilehash: e09becfbbd64128f44ef6d1d29fc367850f13411
+ms.sourcegitcommit: bbaa4400bc9c7db9bdb2784e3af160daf5d08290
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64930598"
+ms.lasthandoff: 04/26/2022
+ms.locfileid: "65059751"
 ---
 # <a name="find-and-visualize-personal-data-in-microsoft-priva"></a>Microsoft Priva で個人データを検索して視覚化する
 
@@ -75,7 +75,7 @@ Priva の自動検出機能を職場で確認するには、[ **個人データ�
 
 #### <a name="items-with-the-most-data-subject-content"></a>データ主体のコンテンツが最も多い項目
 
-この分析情報は、サブジェクト権限要求のデータ照合機能からの情報を参照し、最も多くのデータ 主体を含むMicrosoft 365内で検出されたコンテンツ 項目を表示します。 この設定の詳細については、「 [サブジェクト権利要求の詳細](subject-rights-requests.md)」を参照してください。
+この分析情報は、最も多くのデータ主体の個人データを含むコンテンツ 項目を表示します。 これらの分析情報を受け取るには、組織で [サブジェクト権利要求に対してデータ一致を設定する必要があります](subject-rights-requests-data-match.md)。
 
 これらの項目は、データ照合の構成を確認するのに役立ち、これらの項目に関連するプライバシー リスクを軽減するのに役立ちます。 **概要ビューの [ビューの** 概要] を選択します。 これらの項目の最大 100 個の詳細ビューを表示するには、[ **探索** ] を選択します。 ここでは、これらの項目をプレビューし、関連性を判断し、リストを.csv形式でエクスポートできます。
 
