@@ -16,12 +16,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva Privacy Risk Management でポリシー一致によって発生したアラートと問題を管理する方法について説明します。
-ms.openlocfilehash: cc24342bc86bf327892b34ed26650070a7addbf0
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+ms.openlocfilehash: a770a7b8d77e2d7792fc4ea8c68914dc62b48a27
+ms.sourcegitcommit: 0e68501654f702d8b8b694ae696bb8bd7fa7cea6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014387"
+ms.lasthandoff: 05/07/2022
+ms.locfileid: "65268330"
 ---
 # <a name="investigate-and-remediate-alerts-in-privacy-risk-management"></a>プライバシー リスク管理のアラートを調査して修復する
 
@@ -71,9 +71,9 @@ Priva の **[概要]** ページには、最も一致するポリシーや現在
 
 - **所有者に通知** する: 検出された問題についてコンテンツ所有者に通知します。
 
-- **保持ラベルを適用** する: このアイテムのデータ保持に関するラベルを追加します。 [保持ラベルの詳細については、こちらを参照してください](/microsoft-365/compliance/create-apply-retention-labels)。
+- **保持ラベルを適用** する: このアイテムのラベルを追加します。このアイテムを保持、削除、または保持してから、指定した時間後に削除できます。 [保持ラベルの詳細については、こちらを参照してください](/microsoft-365/compliance/retention)。
 
-- **秘密度ラベルを適用** する: このアイテムのデータの秘密度に関するラベルを追加します。 [秘密度ラベルの詳細については、こちらを参照してください](/microsoft-365/compliance/sensitivity-labels)。
+- **秘密度ラベルを適用** する: このアイテムの秘密度を識別するラベルを追加し、必要に応じて視覚的なマーキングと暗号化を含む保護を追加します。 [秘密度ラベルの詳細については、こちらを参照してください](/microsoft-365/compliance/sensitivity-labels)。
 
 - **一致しないようにマーク** する: 検索結果を誤検知として識別し、コンテンツ アイテムを考慮から削除します。
 
