@@ -16,27 +16,27 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft Priva 試用版について説明し、試用期間中に実行する推奨されるアクションを確認し、重要なドキュメントへのリンクを確認します。
-ms.openlocfilehash: 20b69f56d52cea59c124cd4b88f8cdcfa754f189
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+description: Microsoft Priva試用版について説明し、試用期間中に実行する推奨されるアクションを確認し、重要なドキュメントへのリンクを確認します。
+ms.openlocfilehash: 5dfffcd90f019b71e74be007ed35dc21fb95aa99
+ms.sourcegitcommit: 3c27ecf7c86c8a3db38cae8819fc090eed192b4f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014397"
+ms.lasthandoff: 05/25/2022
+ms.locfileid: "65678204"
 ---
 # <a name="trial-playbook-microsoft-priva"></a>試用版プレイブック: Microsoft Priva
 
-Microsoft Priva 試用版プレイブックへようこそ。
+Microsoft Priva試用版プレイブックへようこそ。
 
 このプレイブックは、個人データを保護し、プライバシーに回復性のある職場を構築できるようにすることで、90 日間の無料試用版を最大限に活用するのに役立ちます。
 
-Microsoft の推奨事項を使用して、Priva を使用して、データ の買いだめ、データ転送、データの過剰共有などのプライバシー リスクを事前に特定して保護し、組織が大規模に件名要求を自動化および管理し、従業員がスマート なデータ処理の意思決定を行えるように支援する方法について説明します。
+Microsoft の推奨事項を使用して、Privaを使用して、データの買いだめ、データ転送、データの過剰共有などのプライバシー リスクを事前に特定して保護し、組織が大規模な件名要求を自動化および管理し、従業員がスマート データ処理の意思決定を行えるように支援する方法について説明します。
 
-## <a name="getting-started"></a>はじめに
+## <a name="getting-started"></a>作業を開始する
 
 *これらのアクションは、90 日間の試用版で試す主な機能に関する推奨事項です。*
 
-前提条件を設定して試用版を開始します。 Priva は、個別に試して購入できる 2 つの主要なソリューションである Priva Privacy Risk Management と Priva Subject Rights Requests で構成されていることに注意してください。 ライセンスと購入の詳細については、Microsoft.com に関するページを [参照](https://www.microsoft.com/security/business/privacy/privacy-management-software?rtc=1#office-ContentAreaHeadingTemplate-8x0pmkp)してください。
+前提条件を設定して試用版を開始します。 Privaは、Priva プライバシー リスク管理とPriva 主体の権利要求の 2 つの主要なソリューションで構成されており、個別に試して購入できることに注意してください。 ライセンスと購入の詳細については、Microsoft.com に関するページを [参照](https://www.microsoft.com/security/business/privacy/privacy-management-software?rtc=1#office-ContentAreaHeadingTemplate-8x0pmkp)してください。
 
 ### <a name="privacy-risk-management"></a>プライバシー リスク管理
 
@@ -44,7 +44,7 @@ Microsoft の推奨事項を使用して、Priva を使用して、データ の
 
 - データの買いだめ、データ転送、データの過剰共有などのプライバシー リスクを事前に特定し、保護する
 - 個人データの保存と移動に関する可視性を得る
-- インフォメーション ワーカーが、このデータの処理に関するスマートな意思決定を行えるようにする
+- 情報ワーカー Microsoft Empower for ISV Initiative、このデータの処理に関するスマートな決定を行う
 - ユーザーがデータを効果的に管理し、進化するプライバシー規制に準拠するための手順を実行できるようにする
 
 ### <a name="subject-rights-requests"></a>サブジェクト権利要求
@@ -53,23 +53,23 @@ Microsoft の推奨事項を使用して、Priva を使用して、データ の
 
 - サブジェクトの権限要求を大規模に管理する
 
-## <a name="start-your-microsoft-priva-trial"></a>Microsoft Priva 試用版を開始する
+## <a name="start-your-microsoft-priva-trial"></a>Microsoft Priva試用版を開始する
 
-Microsoft Priva の使用を開始する準備ができたら、次の手順に従って前提条件を設定し、プライバシーに関する分析情報の調査を開始します。
+Microsoft Privaの使用を開始する準備ができたら、次の手順に従って前提条件を設定し、プライバシーに関する分析情報の調査を開始します。
 
-1. [サブスクリプションとライセンスを確認する](priva-setup.md#step-1-confirm-subscriptions-and-licensing)
-1. [ユーザー権限の設定とロールの割り当て](priva-setup.md#step-3-set-user-permissions-and-assign-roles)
+1. [サブスクリプションとライセンスを確認する](priva-setup.md#confirm-subscriptions-and-licensing)
+1. [ユーザー権限の設定とロールの割り当て](priva-setup.md#set-user-permissions-and-assign-roles)
 1. [試用版の開始] を選択すると、次の操作が自動的に行われます。
-    - Priva 試用版ライセンスが有効になっている (これはリアルタイムで発生します)
+    - 試用版ライセンスが有効になっているPriva (これはリアルタイムで発生します)
     - プライバシーに関する分析情報が生成されます (これには 24 時間かかります)
 
 ![ウェルカム画面の画面キャプチャ。](../media/priva-insights.png)
 
 ## <a name="start-finding-and-visualizing-privacy-risks"></a>プライバシー リスクの検索と視覚化を開始する
 
-Priva は、個人データ資産の検出を自動化し、重要な情報の視覚化を提供することで、組織が格納するデータを理解するのに役立ちます。
+Privaは、個人データ資産の検出を自動化し、重要な情報の視覚化を提供することで、組織が格納するデータを理解するのに役立ちます。
 
-まず、 [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/) の Priva セクションに移動し、次のページを表示します。
+まず、Microsoft Purview コンプライアンス ポータルの [Priva] [セクションに移動](https://compliance.microsoft.com/)し、次のページを表示します。
 
 1. [概要](priva-data-profile.md#explore-the-overview-page): Microsoft 365環境での個人データの量、カテゴリ、場所、移動など、プライバシー体制の集計ビューを提供します。 さらに、個人データが過剰に共有、転送、または未使用であることから生じる、関連するプライバシー リスクの現在の状態と傾向を把握できます。
 1. [データ プロファイル](priva-data-profile.md#explore-the-data-profile-page): ボリューム、種類、場所 (ストレージと地理) など、組織がMicrosoft 365に保存する個人データのスナップショットを提供します。
@@ -124,7 +124,7 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 ## <a name="learn-about-subject-rights-requests"></a>サブジェクト権利要求の詳細
 
-世界中の特定のプライバシー規制に従って、個人 (またはデータ主体) は、企業が収集した個人に関する個人データの確認または管理を要求する場合があります。 これらの要求は、データ主体要求 (DSR)、データ主体アクセス要求 (DSAR)、またはコンシューマー権限要求とも呼ばれます。 Priva Subject Rights Requests は、これらの問い合わせの処理に役立ちます。
+世界中の特定のプライバシー規制に従って、個人 (またはデータ主体) は、企業が収集した個人に関する個人データの確認または管理を要求する場合があります。 これらの要求は、データ主体要求 (DSR)、データ主体アクセス要求 (DSAR)、またはコンシューマー権限要求とも呼ばれます。 Priva 主体の権利要求は、これらの問い合わせの処理に役立ちます。
 
 1. [要求を作成してデータを収集する](subject-rights-requests-create.md)
 1. [データ一致](subject-rights-requests-data-match.md)
@@ -144,7 +144,7 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 ## <a name="manage-data-matching-for-subject-rights-requests"></a>サブジェクト権利要求のデータ一致を管理する
 
-データ照合を使用すると、組織は Priva が正確に指定されたデータ値に基づいてデータ主体を識別できるようにします。
+データ照合を使用すると、組織はPrivaが正確に指定されたデータ値に基づいてデータ 主体を識別できるようにします。
 
 1. [データインポートの準備](subject-rights-requests-data-match.md#prepare-for-data-import)
 1. [個人データ スキーマを定義する](subject-rights-requests-data-match.md#define-the-personal-data-schema)
@@ -152,7 +152,7 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 ## <a name="review-data-and-collaborate-on-subject-rights-requests"></a>データを確認し、主体の権利要求で共同作業を行う
 
-サブジェクト権利要求を作成すると、Priva はサブジェクトに関する入力を使用して、組織のMicrosoft 365環境で一致を検索します。 このデータがコンパイルされたら、結果を確認し、何を含めるかを選択し、必要に応じて情報を編集することができます。
+サブジェクトの権利要求を作成すると、Privaはサブジェクトに関する入力を使用して、組織のMicrosoft 365環境で一致を探します。 このデータがコンパイルされたら、結果を確認し、何を含めるかを選択し、必要に応じて情報を編集することができます。
 
 1. [要求の詳細を確認し、進行状況を監視する](subject-rights-requests-data-review.md#step-1-review-request-details-and-monitor-progress)
 1. [検索クエリを表示および編集する](subject-rights-requests-data-review.md#step-2-optional-view-and-edit-search-queries)  (省略可能)
@@ -169,7 +169,7 @@ Priva は、個人データ資産の検出を自動化し、重要な情報の�
 
 ## <a name="automate-subject-rights-requests-tasks"></a>主体の権利の要求タスクを自動化する
 
-Priva のPower Automate フローを有効にすると、ServiceNow でのチケットの作成や期限に関する予定表のリマインダーの追加など、ケースとユーザーの重要なタスクを自動化できます。
+PrivaのPower Automate フローを有効にして、ServiceNow でのチケットの作成や期限に関する予定表のリマインダーの追加など、ケースとユーザーの重要なタスクを自動化します。
 
 1. [テンプレートから新しいPower Automate フローを作成する](subject-rights-requests-automate.md#create-a-new-power-automate-flow-from-a-template)
 1. [Power Automate フローを共有する](subject-rights-requests-automate.md#share-a-power-automate-flow)
@@ -177,10 +177,10 @@ Priva のPower Automate フローを有効にすると、ServiceNow でのチケ
 
 ## <a name="additional-resources"></a>その他のリソース
 
-**Microsoft Docs**: Microsoft Priva のしくみと、それを組織に最適に実装する方法について詳しく説明します。 [ドキュメントにアクセスします](priva-overview.md)。
+**Microsoft Docs**: Microsoft Privaのしくみと、組織に最適に実装する方法に関する詳細情報を取得します。 [ドキュメントにアクセスします](priva-overview.md)。
 
-**Microsoft Priva の理由**: この [ビデオ](https://www.youtube.com/watch?v=6OLky1biPIQ)では、Priva の機能について詳しく説明します。
+**Microsoft Priva理由**: Priva機能の詳細については、この [ビデオ](https://www.youtube.com/watch?v=6OLky1biPIQ)を参照してください。
 
-**Microsoft Priva の詳細については**、ブログ、プラン、価格に関するページを [参照してください](https://aka.ms/privacymgmt/web)。
+**Microsoft Privaの詳細については**、ブログ、プラン、価格に関するページを [参照してください](https://aka.ms/privacymgmt/web)。
 
-**Microsoft Priva の購入**: プライバシー リスク管理とサブジェクト権利要求は、個別に販売されています。 ライセンスと購入の詳細については、Microsoft.com に関するページを [参照](https://www.microsoft.com/en-us/security/business/privacy/privacy-management-software?rtc=1#office-ContentAreaHeadingTemplate-8x0pmkp)してください。
+**購入Microsoft Priva**: プライバシー リスク管理とサブジェクト権利要求は、個別に販売されます。 ライセンスと購入の詳細については、Microsoft.com に関するページを [参照](https://www.microsoft.com/en-us/security/business/privacy/privacy-management-software?rtc=1#office-ContentAreaHeadingTemplate-8x0pmkp)してください。
