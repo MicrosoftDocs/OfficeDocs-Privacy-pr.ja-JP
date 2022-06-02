@@ -1,5 +1,5 @@
 ---
-title: プライバシー リスク管理でユーザー通知を送信する
+title: プライバシー リスク管理のユーザー通知
 f1.keywords:
 - CSH
 ms.author: chvukosw
@@ -15,13 +15,13 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft Priva Privacy Risk Management によって検出されたポリシーの一致についてコンテンツ所有者に通知する方法と、これらの電子メール通知を使用して問題を修復する方法について説明します。
-ms.openlocfilehash: 8969e1cd4d5859102b18bd46723d1be6e85d35f6
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+description: Microsoft Priva プライバシー リスク管理によって検出されたポリシーの一致についてコンテンツ所有者に通知する方法と、これらの電子メール通知を使用して問題を修復する方法について説明します。
+ms.openlocfilehash: ae02d3bca9c63f8645cd9671628de61d83cb6117
+ms.sourcegitcommit: 9315064bf5bb9e889318e61ec5f082f36c815e1e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014377"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65851652"
 ---
 # <a name="user-notifications-in-privacy-risk-management"></a>プライバシー リスク管理のユーザー通知
 
@@ -77,4 +77,4 @@ ms.locfileid: "65014377"
 
 ## <a name="legal-disclaimer"></a>法的免責事項
 
-[Microsoft Priva の法的免責事項](priva-disclaimer.md)
+[Microsoft Priva法的免責事項](priva-disclaimer.md)

@@ -1,5 +1,5 @@
 ---
-title: Priva Subject Rights Requests について学習する
+title: Priva 主体の権利要求について学習する
 f1.keywords:
 - CSH
 ms.author: chvukosw
@@ -15,48 +15,48 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft Priva の Subject Rights Requests ソリューションは、個人データを見つけ、コンテンツのレビューとレポートの作成に関する共同作業に役立ちます。
-ms.openlocfilehash: 37ee3fc795559d216a7a8cd620cff2c3ca689c2b
-ms.sourcegitcommit: 09ecdaded9a9f8f79587f2acb978dc53b83e5c01
+description: Microsoft Privaの Subject Rights Requests ソリューションは、個人データを見つけ、コンテンツのレビューとレポートの作成に関する共同作業に役立ちます。
+ms.openlocfilehash: d62581b1c47dbffde9dedab6e4affc076516677f
+ms.sourcegitcommit: 9315064bf5bb9e889318e61ec5f082f36c815e1e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64930628"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65851682"
 ---
-# <a name="learn-about-priva-subject-rights-requests"></a>Priva Subject Rights Requests について学習する
+# <a name="learn-about-priva-subject-rights-requests"></a>Priva 主体の権利要求について学習する
 
-世界中の特定のプライバシー規制に従って、個人 (または *データ主体*) は、企業が収集した個人に関する個人データの確認または管理を要求する場合があります。 これらの要求は、データ主体要求 (DSR)、データ主体アクセス要求 (DSAR)、またはコンシューマー権限要求とも呼ばれます。 大量の情報を格納する企業の場合、関連するデータを見つけることは手ごわい作業になる可能性があります。
+世界中のいくつかのプライバシー規制は、個人または *データ主体* に対して、企業が収集した個人データの確認または管理を要求する権利を付与します。 これらのサブジェクト権利要求は、データ主体要求 (DSR)、データ主体アクセス要求 (DSAR)、またはコンシューマー権利要求とも呼ばれます。 大量の情報を格納する企業の場合、関連するデータを見つけることは手ごわい作業になる可能性があります。 ほとんどの組織にとって、要求を満たすことは、非常に手動で時間のかかるプロセスです。
 
-Microsoft Priva は、サブジェクト権利要求ソリューションを通じて、これらの問い合わせを処理するのに役立ちます。 これにより、件名データの検索、結果の確認、適切なファイルの収集、レポートの作成を支援するワークフロー、自動化、コラボレーション機能が提供されます。
+Microsoft Priva 主体の権利要求 ソリューションは、データ主体の問い合わせへの対応に伴う複雑さと時間の長さを軽減するために設計されています。 組織がより自信を持って効率的に要求を満たすのに役立つ、自動化、分析情報、ワークフローを提供します。
 
-## <a name="how-priva-supports-subject-rights-request-fulfillment"></a>Priva がサブジェクト権利要求のフルフィルメントをサポートする方法
+## <a name="how-priva-supports-subject-rights-request-fulfillment"></a>サブジェクト権利要求のフルフィルメントPrivaサポートする方法
 
-サブジェクト権利要求サイクルは、組織に対する個人の要求から始まります。 受信したら、Priva の機能を使用して、そのデータの収集、共同作業、レビュー、レポートの作成を行うことができます。 その後、結果のデータ主体に通知し、データの削除など、要求を満たすために Priva の外部で必要なその他のアクションを実行できます。 ワークフローの管理と自動化を支援するために、統合されたPower Automate テンプレートを使用することもできます。
+自動化と堅牢なワークフロー ツールは、Subject Rights Requests ソリューション全体に組み込まれています。 システムで要求を作成したら、データの識別と収集の作業を引き受け、共同分析を容易にするツールを提供します。
 
-### <a name="create-requests-and-collect-data"></a>要求を作成してデータを収集する
+### <a name="immediate-kickoff-of-data-evaluation"></a>データ評価の即時開始
 
-Priva には、組織がMicrosoft 365に保存するコンテンツ内のデータ主体に関連するデータを検索するための強力な検索オプションが用意されています。 また、これらの要求に対して収集したデータ内でレビューする項目に優先順位を付ける場合にも役立ちます。 Priva は Microsoft Purview Information Protectionの秘密度ラベルを認識しています。これは、機密性が高く、特別なレビューが必要になる可能性のあるコンテンツを示し、これらのラベルでアイテムにフラグを設定します。 さらに、Priva は、複数のユーザーのデータを含む可能性のあるアイテムを検出してフラグを設定できます。データ主体にコンテンツを提供する前にコンテンツをやり直す必要がある場合があります。
+Privaは、Microsoft 365の基本機能を使用して、組織のデータ内の個人データ型を識別します。 要求を作成するとすぐに、ソリューションはデータ主体の個人データを含むファイル、電子メール、サイト、チャットを識別できるようになります。 データの量に応じて、数時間以内にコンテンツ アイテムを取得します。 大量のデータが見つかると予想される場合は、データを収集する前に検索パラメーターを絞り込む機会を提供します。
 
-詳細については、「 [サブジェクト権限要求を作成する](subject-rights-requests-create.md)」を参照してください。
+### <a name="help-in-prioritizing-content-to-review"></a>レビューするコンテンツの優先順位付けに関するヘルプ
 
-### <a name="data-matching"></a>データ一致
+データ主体の要求に対して収集された大量のデータを確認する必要がある場合があります。 各要求の詳細画面で分析情報を提供し、レビューに優先順位を付ける項目を提案します。 優先度項目には、機密である可能性のあるファイルや、複数の個人データを含むアイテムが含まれます。 これらの項目は、やり直しやその他の特別な処理に関する考慮事項が必要なコンテンツを強調表示します。
 
-データマッチングを使用すると、Priva が正確に指定されたデータ値に基づいてデータ主体を識別できるようにします。 この種類の情報をアップロードすると、コンテンツの検索の精度が向上し、サブジェクト権利要求の作成時にフィールドを手動で指定する必要性が簡素化されます。 また、サブジェクトの権利要求内と、データ主体のコンテンツが最も多いアイテムを示す [概要] タイルのコンテキストも提供されます。 詳細については、「 [サブジェクト権利要求のデータ照合](subject-rights-requests-data-match.md)」を参照してください。
+### <a name="built-in-teams-collaboration-and-editing-tools-to-facilitate-data-review"></a>データレビューを容易にする組み込みのTeamsコラボレーションツールと編集ツール
 
-### <a name="review-data-and-collaborate-on-requests"></a>データを確認し、要求に対して共同作業する
+要求を作成するとすぐに、その要求に対して専用のTeams チャネルが自動的に設定されます。 要求コラボレーターとして関連する関係者を追加すると、それらをチャットに招待して、取得したアイテムの分析と決定に役立ちます。 コラボレーターは、要求内に組み込みの再実行ツールを使用して、アイテムの一覧の横にあるレビュー画面でファイルをマークアップできます。 特定のコンテンツに追加のフォローアップ アクションが必要な場合は、組織によって定義されたタグを適用して、アイテムを識別し、後でアクションを実行することができます。
 
-データが収集されたら、結果を評価し、レポートとエクスポートに含める最も関連性の高い項目を選択し、必要なやり直しを行うことができます。 これは、Subject Rights Requests パイプライン内のチーム メンバー間で共同で行うことができます。
+### <a name="automatically-generated-reports"></a>自動生成されたレポート
 
-詳細については、「 [サブジェクト権限要求のデータを確認する](subject-rights-requests-data-review.md)」を参照してください。
+データの確認と要求に含める内容の決定が完了したら、レポートが生成されます。 レポートには、データ主体に送信する関連データ パッケージ、監査ログ、およびタグ付きファイルの概要が含まれており、必要なフォローアップ アクションを完了できます。
 
-### <a name="fulfill-requests"></a>要求をフルフィルメントする
+### <a name="solutions-that-extend-and-integrate-with-your-subject-request-strategy"></a>サブジェクト要求戦略を拡張して統合するソリューション
 
-Priva には、レポートを作成し、データ主体に返送するファイルを収集するためのツールが用意されています。 詳細については、「レポートを [生成し、サブジェクト権限要求を満たす](subject-rights-requests-reports.md)」を参照してください。
+組み込みのPower Automate テンプレートのいずれかを使用して、予定表のリマインダーの設定や ServiceNow での要求のレコードの作成など、一般的なタスクのフローを設定することで、自動化機能を拡張します。 また、Microsoft 365 Subject Rights Request API を使用して、既存のサブジェクト権利戦略に自動化を導入することもできます。
 
-### <a name="automate-tasks"></a>自動タスク
+## <a name="getting-started"></a>はじめに
 
-組み込みのPower Automate テンプレートを使用して、Priva 内でワークフロー プロセスを作成および自動化できます。 これらのテンプレートは、ServiceNow でのチケットの提出や予定表の招待の設定などのタスクをサポートします。 詳細については、「 [Subject Rights Requests のタスクを自動化する](subject-rights-requests-automate.md)」を参照してください。
+最初の要求で記載する方法については、「 [サブジェクトの権利要求を作成](subject-rights-requests-create.md) する」を参照してください。
 
 ## <a name="legal-disclaimer"></a>法的免責事項
 
-[Microsoft Priva の法的免責事項](priva-disclaimer.md)
+[Microsoft Priva法的免責事項](priva-disclaimer.md)

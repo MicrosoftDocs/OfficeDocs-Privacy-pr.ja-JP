@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva試用版について説明し、試用期間中に実行する推奨されるアクションを確認し、重要なドキュメントへのリンクを確認します。
-ms.openlocfilehash: 5dfffcd90f019b71e74be007ed35dc21fb95aa99
-ms.sourcegitcommit: 3c27ecf7c86c8a3db38cae8819fc090eed192b4f
+ms.openlocfilehash: 9b1e3761e4b9166e3f89d906926981b8a0afbfdb
+ms.sourcegitcommit: 9315064bf5bb9e889318e61ec5f082f36c815e1e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "65678204"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65851692"
 ---
 # <a name="trial-playbook-microsoft-priva"></a>試用版プレイブック: Microsoft Priva
 
@@ -32,7 +32,7 @@ Microsoft Priva試用版プレイブックへようこそ。
 
 Microsoft の推奨事項を使用して、Privaを使用して、データの買いだめ、データ転送、データの過剰共有などのプライバシー リスクを事前に特定して保護し、組織が大規模な件名要求を自動化および管理し、従業員がスマート データ処理の意思決定を行えるように支援する方法について説明します。
 
-## <a name="getting-started"></a>作業を開始する
+## <a name="getting-started"></a>はじめに
 
 *これらのアクションは、90 日間の試用版で試す主な機能に関する推奨事項です。*
 
@@ -164,10 +164,10 @@ Privaは、個人データ資産の検出を自動化し、重要な情報の視
 サブジェクト権利要求のデータ レビューが完了したら、要求のフルフィルメントに進むことができます。
 
 1. [データ主体の最終レポートを準備する](subject-rights-requests-reports.md)
-1. [パートナー ソリューションと統合する](subject-rights-requests-reports.md#integrate-with-partner-solutions)
+1. [Microsoft Graph APIとPower Automateを統合して拡張する](subject-rights-requests-automate.md)
 1. [データリテンション期間を管理する](subject-rights-requests-reports.md#retention-periods-for-reports-and-data)
 
-## <a name="automate-subject-rights-requests-tasks"></a>主体の権利の要求タスクを自動化する
+## <a name="extend-with-power-automate"></a>Power Automateで拡張する
 
 PrivaのPower Automate フローを有効にして、ServiceNow でのチケットの作成や期限に関する予定表のリマインダーの追加など、ケースとユーザーの重要なタスクを自動化します。
 
