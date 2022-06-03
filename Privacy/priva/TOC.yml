@@ -32,11 +32,11 @@
       href: subject-rights-requests.md
     - name: リクエストを作成する
       href: subject-rights-requests-create.md
-    - name: データ照合を設定する
-      href: subject-rights-requests-data-match.md
     - name: データを確認して共同作業する
       href: subject-rights-requests-data-review.md
-    - name: レポートを取得して要求を処理する
+    - name: リクエストを満たすためのレポートを生成する
       href: subject-rights-requests-reports.md
-    - name: 自動タスク
+    - name: Microsoft Graph API および Power Automate と統合する
       href: subject-rights-requests-automate.md
+    - name: データ照合を設定する
+      href: subject-rights-requests-data-match.md
