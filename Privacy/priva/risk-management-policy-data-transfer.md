@@ -15,13 +15,13 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft Priva Privacy Risk Management でデータ処理ポリシーを作成し、組織内または外部の個人データの転送を阻止する方法について説明します。
-ms.openlocfilehash: 6d491a7a65035aa1e3a405f36ef30b95f9c29245
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+description: 組織内または組織外での個人データの転送を阻止するために、Microsoft Priva プライバシー リスク管理でデータ処理ポリシーを作成する方法について説明します。
+ms.openlocfilehash: eba53580365d1fee387c05a54093ab04e41cd15f
+ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014486"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "66046651"
 ---
 # <a name="data-transfer-policies-in-privacy-risk-management"></a>プライバシー リスク管理のデータ転送ポリシー
 
@@ -44,7 +44,7 @@ ms.locfileid: "65014486"
 
 既定のデータ転送ポリシーを作成するには、次の手順に従います。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけて、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけて、[**ポリシー**] を選択します。
 
 2. 画面の右上隅にある [ **ポリシーの作成** ] を選択すると、すべてのポリシー作成オプションが一覧表示されたポップアップ ウィンドウが表示されます。
 
@@ -80,7 +80,7 @@ ms.locfileid: "65014486"
 
 次の手順を実行して、新しいデータ転送ポリシーを作成します。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけて、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけて、[**ポリシー**] を選択します。
 
 2. 画面の右上にある [ **ポリシーの作成** ] ボタンを選択すると、すべてのポリシー作成オプションが一覧表示されたポップアップ ウィンドウが表示されます。
 

@@ -15,13 +15,13 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft Priva Privacy Risk Management でデータ最小化ポリシーを作成し、組織内の未使用の個人データの量を減らす方法について説明します。
-ms.openlocfilehash: c5a883de696923e4453ed28739e9bf68b618f8d1
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+description: 組織内の未使用の個人データの量を減らすために、Microsoft Priva プライバシー リスク管理でデータ最小化ポリシーを作成する方法について説明します。
+ms.openlocfilehash: 251bd0ad73c840f818c945b7f68e4557299ad406
+ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014479"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "66046621"
 ---
 # <a name="data-minimization-policies-in-privacy-risk-management"></a>プライバシー リスク管理のデータ最小化ポリシー
 
@@ -39,7 +39,7 @@ ms.locfileid: "65014479"
 
 既定のデータ転送ポリシーを作成するには、次の手順に従います。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけて、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけて、[**ポリシー**] を選択します。
 
 2. 画面の右上隅にある [ **ポリシーの作成** ] を選択すると、すべてのポリシー作成オプションが一覧表示されたポップアップ ウィンドウが表示されます。
 
@@ -72,7 +72,7 @@ ms.locfileid: "65014479"
 
 次の手順を実行して、新しいデータ転送ポリシーを作成します。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけて、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけて、[**ポリシー**] を選択します。
 
 2. 画面の右上にある [ **ポリシーの作成** ] ボタンを選択すると、すべてのポリシー作成オプションが一覧表示されたポップアップ ウィンドウが表示されます。
 

@@ -15,13 +15,13 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft 365で組織の個人データを処理するために、Microsoft Priva Privacy Risk Management でポリシーを作成および管理する方法について説明します。
-ms.openlocfilehash: 87671cedc8c6cba75d5ad207b52831cdd2467187
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+description: Microsoft 365で組織の個人データを処理するためのMicrosoft Priva プライバシー リスク管理でポリシーを作成および管理する方法について説明します。
+ms.openlocfilehash: ff8ee92f192d2dc45998a97638e1bd0bada1fef3
+ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014497"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "66046611"
 ---
 # <a name="privacy-risk-management-policies"></a>プライバシー リスク管理ポリシー
 
@@ -43,7 +43,7 @@ ms.locfileid: "65014497"
 
 テンプレートから直接ポリシーを作成する場合、ほとんどの設定が自動的に選択され、すぐに起動して実行できるようになります。 次の手順に従って、いずれかのテンプレートを使用して既定の設定でポリシーを作成します。
 
-1. [Microsoft Purview コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけて、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけて、[**ポリシー**] を選択します。
 
 2. 画面の右上隅にある [ **ポリシーの作成** ] を選択すると、すべてのポリシー作成オプションが一覧表示されたポップアップ ウィンドウが表示されます。
 
@@ -61,7 +61,7 @@ ms.locfileid: "65014497"
 
 ポリシーを作成するには、次の手順に従います。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけます。 ドロップダウン メニューから [ **ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけます。 ドロップダウン メニューから [ **ポリシー**] を選択します。
 
 2. [**ポリシーの作成**] を選択します。
 
@@ -273,7 +273,7 @@ ms.locfileid: "65014497"
 
 ポリシーを編集するには、次の手順に従います。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけます。 ドロップダウン メニューから [ **ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけます。 ドロップダウン メニューから [ **ポリシー**] を選択します。
 
 2. [ポリシー **] ページの** 行から編集するポリシーを選択します。このポリシーの詳細ページが表示されます。
 
@@ -295,4 +295,4 @@ ms.locfileid: "65014497"
 
 ## <a name="legal-disclaimer"></a>法的免責事項
 
-[Microsoft Priva の法的免責事項](priva-disclaimer.md)
+[Microsoft Priva法的免責事項](priva-disclaimer.md)

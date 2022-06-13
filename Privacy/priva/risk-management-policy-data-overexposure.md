@@ -15,13 +15,13 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Microsoft Priva Privacy Risk Management でデータの露出超過ポリシーを作成する方法について説明します。過度にアクセスできる可能性がある個人データを特定し、セキュリティで保護します。
-ms.openlocfilehash: a0c87a84a78206862d9a79e1c16d17a90de5f040
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+description: 過度にアクセスできる可能性がある個人データを特定してセキュリティで保護Microsoft Priva プライバシー リスク管理で、データの露出超過ポリシーを作成する方法について説明します。
+ms.openlocfilehash: 6efb92ed5d1b79b0fc69beebd5788062b5687269
+ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014507"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "66046681"
 ---
 # <a name="data-overexposure-policies-in-privacy-risk-management"></a>プライバシー リスク管理のデータの露出超過ポリシー
 
@@ -39,7 +39,7 @@ ms.locfileid: "65014507"
 
 既定のデータ転送ポリシーを作成するには、次の手順に従います。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけて、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけて、[**ポリシー**] を選択します。
 
 2. 画面の右上隅にある [ **ポリシーの作成** ] を選択すると、すべてのポリシー作成オプションが一覧表示されたポップアップ ウィンドウが表示されます。
 
@@ -75,7 +75,7 @@ ms.locfileid: "65014507"
 
 次の手順を実行して、新しいデータの露出過剰ポリシーを作成します。
 
-1. [Microsoft 365 コンプライアンス センター](https://compliance.microsoft.com/)で、左側のナビゲーションで Priva Privacy Risk Management を見つけて、[**ポリシー**] を選択します。
+1. [Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)で、左側のナビゲーションでPriva プライバシー リスク管理を見つけて、[**ポリシー**] を選択します。
 
 2. 画面の右上にある [ **ポリシーの作成** ] ボタンを選択すると、すべてのポリシー作成オプションが一覧表示されたポップアップ ウィンドウが表示されます。
 

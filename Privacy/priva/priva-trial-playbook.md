@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva試用版について説明し、試用期間中に実行する推奨されるアクションを確認し、重要なドキュメントへのリンクを確認します。
-ms.openlocfilehash: 9b1e3761e4b9166e3f89d906926981b8a0afbfdb
-ms.sourcegitcommit: 9315064bf5bb9e889318e61ec5f082f36c815e1e
+ms.openlocfilehash: cd4209fe847a6aaad34d0f417409e9a5e7fd20a3
+ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2022
-ms.locfileid: "65851692"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "66046591"
 ---
 # <a name="trial-playbook-microsoft-priva"></a>試用版プレイブック: Microsoft Priva
 
@@ -69,7 +69,7 @@ Microsoft Privaの使用を開始する準備ができたら、次の手順に�
 
 Privaは、個人データ資産の検出を自動化し、重要な情報の視覚化を提供することで、組織が格納するデータを理解するのに役立ちます。
 
-まず、Microsoft Purview コンプライアンス ポータルの [Priva] [セクションに移動](https://compliance.microsoft.com/)し、次のページを表示します。
+まず、[Microsoft Purview コンプライアンス ポータル](https://compliance.microsoft.com/)の [Priva] セクションに移動し、次のページを表示します。
 
 1. [概要](priva-data-profile.md#explore-the-overview-page): Microsoft 365環境での個人データの量、カテゴリ、場所、移動など、プライバシー体制の集計ビューを提供します。 さらに、個人データが過剰に共有、転送、または未使用であることから生じる、関連するプライバシー リスクの現在の状態と傾向を把握できます。
 1. [データ プロファイル](priva-data-profile.md#explore-the-data-profile-page): ボリューム、種類、場所 (ストレージと地理) など、組織がMicrosoft 365に保存する個人データのスナップショットを提供します。
@@ -138,9 +138,9 @@ Privaは、個人データ資産の検出を自動化し、重要な情報の視
 
 サブジェクト権利管理管理者は、メインの [サブジェクト権利要求] ページから新しいサブジェクト権利要求を開くことができます。 ウィザードでは、データ主体に関する個人データを検索し、要求を満たすプロセスを開始するプロセスについて説明します。
 
-1. [サブジェクト権限要求ウィザードを使用する](subject-rights-requests-create.md#use-the-subject-rights-request-creation-wizard) - 要求を作成する
-1. [検索設定を定義する](subject-rights-requests-create.md#define-search-settings)
-1. [検索設定を絞り込む](subject-rights-requests-create.md#refine-your-search)
+1. [サブジェクト権限要求ウィザードを使用する](subject-rights-requests-create.md#create-a-request) - 要求を作成する
+1. [検索設定を定義する](subject-rights-requests-create.md#defining-search-settings)
+1. [検索設定を絞り込む](subject-rights-requests-create.md#refining-your-search)
 
 ## <a name="manage-data-matching-for-subject-rights-requests"></a>サブジェクト権利要求のデータ一致を管理する
 
@@ -154,10 +154,10 @@ Privaは、個人データ資産の検出を自動化し、重要な情報の視
 
 サブジェクトの権利要求を作成すると、Privaはサブジェクトに関する入力を使用して、組織のMicrosoft 365環境で一致を探します。 このデータがコンパイルされたら、結果を確認し、何を含めるかを選択し、必要に応じて情報を編集することができます。
 
-1. [要求の詳細を確認し、進行状況を監視する](subject-rights-requests-data-review.md#step-1-review-request-details-and-monitor-progress)
-1. [検索クエリを表示および編集する](subject-rights-requests-data-review.md#step-2-optional-view-and-edit-search-queries)  (省略可能)
-1. [データを確認する](subject-rights-requests-data-review.md#step-3-review-data)
-1. [要求を閉じる](subject-rights-requests-data-review.md#step-4-close-the-request)
+1. [要求の詳細を確認し、進行状況を監視する](subject-rights-requests-workflow.md)
+1. [検索クエリを表示および編集する](subject-rights-requests-create.md#defining-search-settings)  (省略可能)
+1. [データを確認する](subject-rights-requests-data-review.md)
+1. [要求を閉じる](subject-rights-requests-reports.md)
 
 ## <a name="manage-subject-rights-requests-reports-and-fulfill-requests"></a>主体の権利要求レポートを管理し、要求を処理する
 

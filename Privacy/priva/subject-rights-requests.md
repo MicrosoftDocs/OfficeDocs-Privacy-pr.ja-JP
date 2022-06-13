@@ -16,12 +16,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Privaの Subject Rights Requests ソリューションは、個人データを見つけ、コンテンツのレビューとレポートの作成に関する共同作業に役立ちます。
-ms.openlocfilehash: d62581b1c47dbffde9dedab6e4affc076516677f
-ms.sourcegitcommit: 9315064bf5bb9e889318e61ec5f082f36c815e1e
+ms.openlocfilehash: ecb1e1984116b29f51cde21c9a4a554cb8183ae9
+ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/02/2022
-ms.locfileid: "65851682"
+ms.lasthandoff: 06/13/2022
+ms.locfileid: "66046711"
 ---
 # <a name="learn-about-priva-subject-rights-requests"></a>Priva 主体の権利要求について学習する
 
@@ -53,9 +53,9 @@ Privaは、Microsoft 365の基本機能を使用して、組織のデータ内�
 
 組み込みのPower Automate テンプレートのいずれかを使用して、予定表のリマインダーの設定や ServiceNow での要求のレコードの作成など、一般的なタスクのフローを設定することで、自動化機能を拡張します。 また、Microsoft 365 Subject Rights Request API を使用して、既存のサブジェクト権利戦略に自動化を導入することもできます。
 
-## <a name="getting-started"></a>はじめに
+## <a name="next-steps"></a>次の手順
 
-最初の要求で記載する方法については、「 [サブジェクトの権利要求を作成](subject-rights-requests-create.md) する」を参照してください。
+サブジェクト権利要求の作成と処理に関する進行状況の手順については、「 [要求ワークフローと詳細の](subject-rights-requests-workflow.md) 理解」ページを参照してください。 最初の要求を開始するには、「 [サブジェクト権限要求を作成する](subject-rights-requests-create.md)」を参照してください。
 
 ## <a name="legal-disclaimer"></a>法的免責事項
 
