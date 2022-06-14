@@ -16,12 +16,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Microsoft Priva 主体の権利要求のワークフローの手順と要求の詳細ページについて説明します。
-ms.openlocfilehash: 389c587d8d8b56d0654a78281825c8f98a6244d3
-ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
+ms.openlocfilehash: 794176260f6377862d34a66dc71cef1e811188b9
+ms.sourcegitcommit: fe651dab4c89e67b21d37531c04e3996b7af1138
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2022
-ms.locfileid: "66046762"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66060089"
 ---
 # <a name="understand-the-workflow-and-request-details-pages"></a>ワークフローと要求の詳細ページを理解する
 
@@ -45,9 +45,15 @@ Subject Rights Requests ソリューションで[要求を作成](subject-rights
 
 ## <a name="understanding-the-request-details-page"></a>要求の詳細ページについて
 
-Microsoft Purview コンプライアンス ポータルの左側のナビゲーションから **Priva 主体の権利要求** を選択して、組織によって作成された要求にアクセスし、その状態を表示します。 メインの [サブジェクト権利要求] ページのステータス カードには、アクティブ、クローズ、期限切れの要求の数と、上位の要求の種類が表示されます。 ステータス カードの下の表には、組織によって作成されたすべての要求が一覧表示され、最後に作成された要求が上部に表示されます。
+Microsoft Purview コンプライアンス ポータルの左側のナビゲーションから **Priva 主体の権利要求** を選択して、組織によって作成された要求にアクセスし、その状態を表示します。 次に示すメインの [サブジェクト権利要求] ページのステータス カードには、アクティブ、クローズ、期限切れの要求の数と上位の要求の種類が表示されます。 ステータス カードの下の表には、組織によって作成されたすべての要求が一覧表示され、最後に作成された要求が上部に表示されます。
 
-要求の詳細ページを開くには、テーブルから要求名を選択します。 ここでは、要求のプロパティ、検索結果、および要求の状態について詳しく説明します。 このページは、検出されたファイルの管理、レポートとエクスポートの作成、要求の完了に関する作業と共同作業を行うハブになります。
+**サブジェクト権利要求のメイン ページ:** 
+![Subject Rights Requests メイン ページ。](../media/priva-srr-overview.png)
+
+要求の詳細ページを開くには、テーブルから要求名を選択します。 ここでは、要求のプロパティ、検索結果、および要求の状態について詳しく説明します。 以下に表示される詳細ページは、見つかったファイルの管理、レポートとエクスポートの作成、要求の完了に関する作業と共同作業を行うハブになります。
+
+**要求の詳細ページ:**
+![サブジェクト権限要求の詳細ページ。](../media/priva-srr-detailspage.png)
 
 ### <a name="overview-tab"></a>[概要] タブ
 

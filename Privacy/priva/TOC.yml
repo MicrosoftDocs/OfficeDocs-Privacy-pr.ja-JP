@@ -30,11 +30,15 @@
   items:
     - name: サブジェクト権利要求の詳細
       href: subject-rights-requests.md
-    - name: リクエストを作成する
+    - name: ワークフローと要求の詳細ページを理解する
+      href: subject-rights-requests-workflow.md
+    - name: 要求を作成して検索を定義する
       href: subject-rights-requests-create.md
+    - name: データの推定と取得
+      href: subject-rights-requests-data-retrieval.md
     - name: データを確認して共同作業する
       href: subject-rights-requests-data-review.md
-    - name: リクエストを満たすためのレポートを生成する
+    - name: レポートを取得して要求を閉じる
       href: subject-rights-requests-reports.md
     - name: Microsoft Graph API および Power Automate と統合する
       href: subject-rights-requests-automate.md
