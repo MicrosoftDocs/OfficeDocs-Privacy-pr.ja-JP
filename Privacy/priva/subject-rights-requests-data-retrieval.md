@@ -16,14 +16,14 @@ search.appverid:
 - MOE150
 - MET150
 description: データの取得方法と、Microsoft Priva 主体の権利要求の検索設定を変更する方法について説明します。
-ms.openlocfilehash: 9d35a7f37861d7d3ecc5d1bac7db92c75939b4c3
-ms.sourcegitcommit: 3c83e8133a5a71f4e1d76a0b2981ab3ec9cd6602
+ms.openlocfilehash: a2586e987f7a03905feedfd587aab43dba3d9e6b
+ms.sourcegitcommit: 8cbafebb1a1b26a0bd92e500a1e6d6c60243c64b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2022
-ms.locfileid: "66046747"
+ms.lasthandoff: 06/20/2022
+ms.locfileid: "66166666"
 ---
-# <a name="data-estimate-and-retrieval"></a>データの見積もりと取得
+# <a name="data-estimate-and-retrieval"></a>データの推定と取得
 
 **この記事では**、サブジェクト権利要求のデータの見積もりとデータ取得ステージについて説明します。 要求の検索クエリを表示し、検索を絞り込むための編集を行う方法について説明します。
 
@@ -36,7 +36,7 @@ ms.locfileid: "66046747"
 
 **データ見積もり** 段階で要求が一時停止する理由は 2 つあります。
 
-1. 最初に要求を作成するときに、最初に見積もりを取得することを選択できます。 詳細については、「要求の [作成](subject-rights-requests-create.md#create-a-request) 」の手順 5 を参照してください。
+1. 要求を作成するときに、最初に見積もりを取得することを選択できます。 詳細については、 [カスタム要求を作成する](subject-rights-requests-create.md#custom-setup-guided-process-to-choose-all-settings) 手順 6 を参照してください。
 
 2. 見積もりで確認する項目の数が多い (10,000 件を超える) 場合、ワークフローは一時停止します。 この時点で、結果をプレビューし、 [検索クエリを編集](subject-rights-requests-create.md#refining-your-search) するか、引き続き識別されたアイテムを取得するかを決定できます。
 
@@ -59,7 +59,7 @@ ms.locfileid: "66046747"
 
 ## <a name="retrieve-data"></a>データを取得する
 
-データ取得ステージは、データ主体の個人データを含むすべてのファイル、電子メール、チャット、画像、およびその他のコンテンツ 項目が取得されるときに行われます。 項目は、確認のために Azure BLOB ストレージ コンテナーにまとめされます。 データの量によっては、データの取得に数分または大幅に時間がかかる場合があります。
+データ取得ステージは、データ主体の個人データを含むすべてのファイル、電子メール、チャット、画像、およびその他のコンテンツ 項目が取得されるときに行われます。 項目は、レビューのためにAzure Blob Storage コンテナーにまとめされます。 データの量によっては、データの取得に数分または大幅に時間がかかる場合があります。
 
 このステージが完了すると、要求は **自動的にレビュー データ** の次のステージに移動します。
 
